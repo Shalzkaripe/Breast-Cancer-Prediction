@@ -22,3 +22,5 @@ we have clean data to build the ML model but which machine learning algorithm is
 - Descision Tree classifier
 - Random Forest classifier
 To find the ML model is overfitted,under fitted or generalize doing cross-validation.
+![image](https://github.com/user-attachments/assets/06bfd3f7-0e45-452a-94cc-cad3d4b83ea0)
+
